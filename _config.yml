@@ -1,8 +1,11 @@
-theme: minima
 title: Indian Women Safety
-description: Bookmark this to safeguard
-minima:
-  skin: dark
 
-plugins:
-  - jekyll-feed
+
+theme: minima
+minima:
+  skin: dark  # or 'auto' to match system preference
+
+# Remote theme for latest dark support (optional)
+remote_theme: jekyll/minima
+# plugins:
+#   - jekyll-remote-theme
