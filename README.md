@@ -23,6 +23,6 @@ Om Namo Hanumate Rudravataraya Sarvashatru Samharanaya Sarvarog Haraya Sarvvashi
 
 ## Safe gaurd
 
-kindly safe gaurd your personal data.
+Kindly safe gaurd your personal data.
 
 
