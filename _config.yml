@@ -5,7 +5,10 @@ theme: minima
 minima:
   skin: dark  # or 'auto' to match system preference
 
-# Remote theme for latest dark support (optional)
-remote_theme: jekyll/minima
-# plugins:
-#   - jekyll-remote-theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Dark theme colors (Minima v2.5+ supported)
+colors:
+  skin: dark
