@@ -4,4 +4,4 @@ plugins:
   - jekyll-remote-theme
 
 show_downloads: false
-google_analytics: G-07CM3ZL4TR
+google_analytics: false
